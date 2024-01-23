@@ -1,2 +1,2 @@
 # Digital_Transformation_caseStudy
-Literature about a case study where a digital transformation process is executed. 
+Literature about a case study where a digital transformation process is executed. The main objective of the digital transformation project at eCommerce Argentina is to effectively implement emerging technologies, such as data science, process mining, cloud computing and MLOps, to improve operational efficiency and customer experience. The company seeks to op(mise its internal processes, strengthen its supply chain, and migrate to a more scalable and secure cloud infrastructure. In addition, it intends to establish an internal data team and adopt MLOps prac(ces to drive innovation and maintain its compe((vity in the e-commerce market.
